@@ -2,13 +2,6 @@
 Profile ID,Name,Site,Hotkey,,,
 ### AUTOFILL RULES ###,,,,,,
 Rule ID,Type,Name,Value,Site,Mode,Profile
-r1,2,"If asked, how likely would you be to recommend Geek Squad Online Support to a friend, colleague, or family member?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
-r2,2,"How knowledgeable was the Geek Squad Online Support Agent?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
-r3,2,"How friendly was the Geek Squad Online Support Agent?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
-r4,2,"How efficient was the Geek Squad Online Support Agent?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
-r5,2,"How communicative was the Geek Squad Online Support Agent?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
-r6,2,"How was your overall experience today?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
-r7,2,"What's the status of your problem?","1","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
 r8,4,"","document.getElementById('externalpages_textSurveySendButton').click();","https://secure.logmeinrescue.com/Customer/Survey.aspx",1,
 ### AUTOFILL OPTIONS ###,,,,,,
 advanced,"[]",,,,,
