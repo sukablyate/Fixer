@@ -9,4 +9,7 @@ https://notepad.pw/scquery
 
 
 
+direct link:
+https://notepad.pw/windowsclean2
+
 
